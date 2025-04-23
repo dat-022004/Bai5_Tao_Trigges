@@ -126,10 +126,22 @@ Bảng Hoa Don HV đã tự tính tông tiền Hoa đơn bằng công thức [gi
 ![image](https://github.com/user-attachments/assets/84ace311-07ee-4bf9-a59c-12833202ea36)  
 
 # Ảnh 19+20: 
-Tạo 2 triggers cho bảng Dang ki nhằm kiểm tra Pt có bị trùng lịch hay không và kiểm tra dữ liệu ngày bắt đầu phải lớn hơn ngày kết thúc.  
+Tạo 2 triggers cho bảng Dang ki nhằm kiểm tra Pt có bị trùng lịch hay không và Tự nhạp ngày kết thúc dụa trên ngày bắt đầu và thời hạn dăng kí.  
 ![image](https://github.com/user-attachments/assets/9f7651e6-246d-416e-bd47-c233628eb3e5)  
 
 ![image](https://github.com/user-attachments/assets/0ce0b5f3-e090-45e0-b24f-1d086d6790e1)  
+
+# Ảnh 21:  
+Bảng Đăng kí đã được cập nhật ngày kết thúc và thông báo khi Pt có trùng lịch tập bắt phải chọn lịch khác.  
+![image](https://github.com/user-attachments/assets/465852e6-e696-41ac-bfbd-d5d45cf24384)  
+
+![image](https://github.com/user-attachments/assets/f0f7845e-9765-4949-b603-9b2b585fed87)  
+
+#  Kết Luận
+Triggers đã giúp hệ thống của em kiểm soát đươc dữ liệu chính sác hơn và tự động hoá 1 số phần cơ bảng như tính tiền cập nhật dư liệu...  
+tóm lại triggers dất tuyệt vời.
+
+
 
 
 
