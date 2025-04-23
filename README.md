@@ -57,7 +57,6 @@ Hệ thống xẽ giúp tối ưu hoá trong khâu quản lý phòng gym giúp t
 Nâng cao hiệu quả quản lý, giảm sai sót thủ công, tiết kiệm thời gian.  
 Hướng đến xây dựng mô hình hiện đại, chuyên nghiệp, có khả năng mở rộng. 
 CSDL tôi gồm các bảng và khoá chính như hình dưới.  
-![image](https://github.com/user-attachments/assets/aee6084d-6e1b-4d77-b6fa-be6dab9071e5)
 
-![image](https://github.com/user-attachments/assets/76a41c3a-8add-4007-a444-38c977056287)
+![image](https://github.com/user-attachments/assets/76a41c3a-8add-4007-a444-38c977056287)  
 
