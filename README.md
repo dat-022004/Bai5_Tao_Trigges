@@ -51,12 +51,32 @@ Hướng dẫn làm phần B:
    Thầy sẽ dùng tool để check các link này.
 
 DEADLINE: 23H59:59 NGÀY 23/04/2025
-# ____________________BÀI LÀM______________________
+# BÀI LÀM
 Cơ sở dữ liệu của tôi làm về phan tích thiết kế hệ thống quản lý phòng gym NewDay  
 Hệ thống xẽ giúp tối ưu hoá trong khâu quản lý phòng gym giúp tin học hóa các quy trình quản lý hội viên, PT, đăng ký dịch vụ, thanh toán, báo cáo…  
 Nâng cao hiệu quả quản lý, giảm sai sót thủ công, tiết kiệm thời gian.  
 Hướng đến xây dựng mô hình hiện đại, chuyên nghiệp, có khả năng mở rộng. 
 CSDL tôi gồm các bảng và khoá chính như hình dưới.  
-
 ![image](https://github.com/user-attachments/assets/76a41c3a-8add-4007-a444-38c977056287)  
+
+# TẠO TRIGGERS CHO CÁC BẢNG  
+# Ảnh 1: 
+Tạo triggers cho bảng TaiKhoan nhằm mục đích không cho ID_TK trùng nhau.  
+![image](https://github.com/user-attachments/assets/5ff2a9c2-e803-45d3-84cd-073163407143)  
+
+# Ảnh 2:  
+Nhập thư Tài khoản bị trùng thấy thông báo hiện lên nghĩa là triggers đang được Run.  
+![image](https://github.com/user-attachments/assets/9f6f7f42-c9d8-4a26-81f9-7ecbfd55ab0a)  
+
+# Ảnh 3:
+Nhập thử Tài khoản khác không bị trùng thì ok không báo lỗi gì cả.  
+![image](https://github.com/user-attachments/assets/48bb9e55-dc9a-45d8-a393-15413140bc93)  
+
+# Ảnh 4
+
+
+
+
+
+
 
