@@ -72,7 +72,84 @@ Nhập thư Tài khoản bị trùng thấy thông báo hiện lên nghĩa là t
 Nhập thử Tài khoản khác không bị trùng thì ok không báo lỗi gì cả.  
 ![image](https://github.com/user-attachments/assets/48bb9e55-dc9a-45d8-a393-15413140bc93)  
 
-# Ảnh 4
+# Ảnh 4+5:  
+Tạo ra 2 triggers cho bảng Thong Tin HV nhằm không cho sDT và tự động nhập tổi cho hội viên khi đã nhập ngày tháng năm sinh.  
+![image](https://github.com/user-attachments/assets/a5720230-fa11-4a95-a7e6-93fbd355e3d9)  
+
+![image](https://github.com/user-attachments/assets/90d3147c-dcaf-40cf-8102-6102bb842aa1)  
+
+# Ảnh 6:  
+Nhập thư SDT bị trùng thấy thông báo hiện lên nghĩa là triggers đang được Run. 
+![image](https://github.com/user-attachments/assets/aa71545c-507b-4f25-b5a1-a8abdce94897)  
+
+# Ảnh 7:  
+Nhập thử SDT khác không bị trùng thì ok không báo lỗi gì cả và bảng đã tự dộng tính toán ra tuổi của từng hội viên khi nhập thông tin cột ngày sinh.  
+![image](https://github.com/user-attachments/assets/e278a662-ce81-4d64-887e-3f7d34269fa7)  
+
+# Ảnh 8:  
+Tạo triggers cho bảng PT có thể tự dộng tính toán tuổi của từng PT.
+![image](https://github.com/user-attachments/assets/32dab54f-1d3a-47e8-8490-368af28367f1)  
+
+# Ảnh 9:  
+Sau khi tạo xong triggers bảng PT có thể tự dộng cập nhận cột tuổi cho từng PT nghĩa là triggers đang được Run.  
+![image](https://github.com/user-attachments/assets/69dd3822-0597-4530-82ac-cbd0a9d6c704)  
+
+# Ảnh 10+11:  
+Tạo 2 triggers cho bảng Nhan Vien nhằm không cho gmail và SDT trùng nhau.  
+![image](https://github.com/user-attachments/assets/91bfd719-820d-4f2f-b2de-3df81a846663)  
+
+![image](https://github.com/user-attachments/assets/92190755-692d-45b4-97e2-ed0c80fd568f)  
+# Ảnh 12+13:  
+Nhâp tử các Gmail và SDT đã có thì đều thấy thông báo hiện lên là triggers đang được Run.  
+![image](https://github.com/user-attachments/assets/ec47c233-990f-4c9f-9a9b-90d3a8e7c1e4)  
+
+![image](https://github.com/user-attachments/assets/75705c29-f58d-4775-9d96-b530470278ae)  
+
+# ẢNh 14:  
+Nhập thử các Gmail và SDT chưa có thì ok không báo lỗi gì cả.  
+![image](https://github.com/user-attachments/assets/8a8b7d05-1399-448c-bfa7-93e30195d867)  
+
+# Ảnh 15:  
+Tạo triggers cho bảng Hoá dơn NV nhằm tự dộng tính tổng tiền lương của từng nhân viên.  
+![image](https://github.com/user-attachments/assets/e67cd1d1-b07e-4b20-82bd-43d7d97d4737)  
+
+# Ảnh 16:  
+Bảng Hoa Don NV đã tự tính tông tiền lương bằng công thức LuongCB(bảng Nhan Vien) + Thương(Bang Hoa Don nv).
+![image](https://github.com/user-attachments/assets/9b4aef78-c476-47f5-b57b-e856d00f090a)  
+
+# Ảnh 17:  
+Tạo Triggers cho bảng Hoa Don Hv nhằm tự tính tổng tiền khi đăng kí hội viên.  
+![image](https://github.com/user-attachments/assets/b0d45b68-d26b-4d6b-9fba-0d80dd0d5ad6)  
+
+# Ảnh 18:  
+Bảng Hoa Don HV đã tự tính tông tiền Hoa đơn bằng công thức [gia_ve(bảng The HV) + Gia_thue(bảng PT)] * thoi_han(bảng dang ki).  
+![image](https://github.com/user-attachments/assets/84ace311-07ee-4bf9-a59c-12833202ea36)  
+
+# Ảnh 19+20: 
+Tạo 2 triggers cho bảng Dang ki nhằm kiểm tra Pt có bị trùng lịch hay không và kiểm tra dữ liệu ngày bắt đầu phải lớn hơn ngày kết thúc.  
+![image](https://github.com/user-attachments/assets/9f7651e6-246d-416e-bd47-c233628eb3e5)  
+
+![image](https://github.com/user-attachments/assets/0ce0b5f3-e090-45e0-b24f-1d086d6790e1)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
