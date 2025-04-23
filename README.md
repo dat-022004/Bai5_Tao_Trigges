@@ -131,7 +131,7 @@ Tạo 2 triggers cho bảng Dang ki nhằm kiểm tra Pt có bị trùng lịch 
 
 ![image](https://github.com/user-attachments/assets/0ce0b5f3-e090-45e0-b24f-1d086d6790e1)  
 
-# Ảnh 21:  
+# Ảnh 21+22:  
 Bảng Đăng kí đã được cập nhật ngày kết thúc và thông báo khi Pt có trùng lịch tập bắt phải chọn lịch khác.  
 ![image](https://github.com/user-attachments/assets/465852e6-e696-41ac-bfbd-d5d45cf24384)  
 
